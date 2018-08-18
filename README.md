@@ -95,7 +95,7 @@ http://symfony.com/doc/2.3/cookbook/routing/redirect_in_config.html
 ---
 
 #### **Templating with Twig**
-* Templating  
+* Templating / Call a controller from a view  
 http://symfony.com/doc/2.3/book/templating.html  
 http://twig.sensiolabs.org/doc/templates.html  
 * Auto escape  
@@ -110,34 +110,19 @@ http://twig.sensiolabs.org/doc/filters/index.html
 http://twig.sensiolabs.org/doc/tags/include.html  
 * Control statements (loops and conditions)  
 http://twig.sensiolabs.org/doc/tags/for.html  
-* Call a controller from a view  
 * Translations  
 http://symfony.com/doc/2.3/book/translation.html  
 
 ---
 
 #### **Forms**
-* Create forms  
-http://symfony.com/doc/2.3/book/forms.html  
-* Handling forms  
-http://symfony.com/doc/2.3/book/forms.html  
-* Form types  
-http://symfony.com/doc/2.3/book/forms.html  
-http://symfony.com/doc/2.3/book/forms.html  
-* Render forms with Twig  
-http://symfony.com/doc/2.3/book/forms.html  
-* Forms security (CSRF)  
+* Create forms / Handling forms / Form types / Render forms with Twig / Forms security (CSRF)  
 http://symfony.com/doc/2.3/book/forms.html  
 
 ---
 
 #### **Validation**
-* Validate a PHP object  
-http://symfony.com/doc/2.3/book/validation.html  
-* Native validation rules  
-http://symfony.com/doc/2.3/book/validation.html  
-* Validation scopes  
-* Validation groups  
+* Validate a PHP object / Native validation rules / Validation scopes / Validation groups  
 http://symfony.com/doc/2.3/book/validation.html  
 
 ---
