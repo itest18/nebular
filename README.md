@@ -44,9 +44,7 @@ http://symfony.com/doc/2.3/cookbook/bundles/extension.html
 ---
 
 #### **Standardisation**
-* Naming conventions  
-http://symfony.com/doc/2.3/contributing/code/standards.html  
-* Coding standards  
+* Naming conventions / Coding standards   
 http://symfony.com/doc/2.3/contributing/code/standards.html  
 * Integration of third-party libraries  
 http://symfony.com/doc/2.3/cookbook/bundles/installation.html  
@@ -64,7 +62,6 @@ http://symfony.com/doc/2.3/cookbook/bundles/override.html
 #### **The Bundles**
 * The controllers  
 http://symfony.com/doc/2.3/cookbook/controller/index.html                              
-http://symfony.com/doc/2.3/book/controller.html                      
 * The views  
 http://symfony.com/doc/2.3/quick_tour/the_view.html  
 * The resources  
@@ -73,27 +70,18 @@ http://symfony.com/doc/2.3/quick_tour/the_view.html
 
 #### **The controllers**
 * Naming conventions  
-http://symfony.com/doc/2.3/book/routing.html  
 * Get the request  
-http://symfony.com/doc/2.3/book/controller.html  
-http://symfony.com/doc/2.3/components/http_foundation/introduction.html  
 * Generate the response  
-http://symfony.com/doc/2.3/book/controller.html  
-http://symfony.com/doc/2.3/components/http_foundation/introduction.html  
 * The cookies  
-http://symfony.com/doc/2.3/components/http_foundation/introduction.html  
 * The session  
-http://symfony.com/doc/2.3/book/controller.html  
-http://symfony.com/doc/2.3/components/http_foundation/sessions.html  
 * Session flashbag  
-http://symfony.com/doc/2.3/book/controller.html  
-http://symfony.com/doc/2.3/components/http_foundation/sessions.html  
 * Redirects  
-http://symfony.com/doc/2.3/book/controller.html  
 * Internal redirects  
-http://symfony.com/doc/2.3/book/controller.html  
 * Generate 404 pages  
-http://symfony.com/doc/2.3/book/controller.html    
+http://symfony.com/doc/2.3/book/routing.html  
+http://symfony.com/doc/2.3/book/controller.html  
+http://symfony.com/doc/2.3/components/http_foundation/introduction.html  
+http://symfony.com/doc/2.3/components/http_foundation/sessions.html  
 http://symfony.com/doc/2.3/cookbook/controller/error_pages.html  
 
 ---
