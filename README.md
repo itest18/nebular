@@ -128,18 +128,12 @@ http://symfony.com/doc/2.3/book/validation.html
 ---
 
 #### **Dependency Injection**
-* The Service container  
+* The Service container/ Symfony2 services / Register new services / Tags  
 http://symfony.com/doc/2.3/book/service_container.html  
+http://symfony.com/doc/2.3/reference/dic_tags.html  
 * Global configuration parameters                                                
 http://symfony.com/doc/2.3/components/dependency_injection/parameters.html  
 http://symfony.com/doc/2.3/components/dependency_injection/introduction.html  
-* Symfony2 services  
-http://symfony.com/doc/2.3/book/service_container.html  
-* Register new services  
-http://symfony.com/doc/2.3/book/service_container.html  
-* Tags  
-http://symfony.com/doc/2.3/book/service_container.html                                                  
-http://symfony.com/doc/2.3/reference/dic_tags.html  
 * Semantic configuration  
 http://symfony.com/doc/2.3/cookbook/bundles/extension.html  
 
