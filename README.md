@@ -70,13 +70,9 @@ http://symfony.com/doc/2.3/quick_tour/the_view.html
 
 #### **The controllers**
 * Naming conventions  
-* Get the request  
-* Generate the response  
-* The cookies  
-* The session  
-* Session flashbag  
-* Redirects  
-* Internal redirects  
+* Get the request / Generate the response  
+* The cookies / The session / Session flashbag  
+* Redirects / Internal redirects  
 * Generate 404 pages  
 http://symfony.com/doc/2.3/book/routing.html  
 http://symfony.com/doc/2.3/book/controller.html  
@@ -88,13 +84,9 @@ http://symfony.com/doc/2.3/cookbook/controller/error_pages.html
 
 #### **The Routing**
 * Configuration (YAML / XML / PHP & annotations)  
-http://symfony.com/doc/2.3/book/routing.html  
 * Restrict URL parameters  
-http://symfony.com/doc/2.3/book/routing.html  
 * Set default values to URL parameters  
-http://symfony.com/doc/2.3/book/routing.html  
 * Generate URL parameters  
-http://symfony.com/doc/2.3/book/routing.html  
 http://symfony.com/doc/2.3/book/routing.html  
 * Trigger redirections  
 http://symfony.com/doc/master/cmf/components/routing/dynamic.html  
@@ -104,10 +96,10 @@ http://symfony.com/doc/2.3/cookbook/routing/redirect_in_config.html
 
 #### **Templating with Twig**
 * Auto escape  
-http://twig.sensiolabs.org/doc/tags/autoescape.html                                                  
+http://twig.sensiolabs.org/doc/tags/autoescape.html  
 http://symfony.com/doc/2.3/book/templating.html  
 * Template inheritance  
-http://twig.sensiolabs.org/doc/tags/extends.html                                                  
+http://twig.sensiolabs.org/doc/tags/extends.html  
 http://twig.sensiolabs.org/doc/templates.html  
 http://symfony.com/doc/2.3/book/templating.html  
 * Global functions  
@@ -117,10 +109,9 @@ http://twig.sensiolabs.org/doc/filters/index.html
 * Template includes  
 http://twig.sensiolabs.org/doc/tags/include.html  
 * Control statements (loops and conditions)  
-http://twig.sensiolabs.org/doc/tags/for.html                                                  
+http://twig.sensiolabs.org/doc/tags/for.html  
 http://twig.sensiolabs.org/doc/templates.html  
-* Urls generation  
-http://symfony.com/doc/2.3/book/routing.html  
+
 http://symfony.com/doc/2.3/book/templating.html  
 * Call a controller from a view  
 http://symfony.com/doc/2.3/book/templating.html  
