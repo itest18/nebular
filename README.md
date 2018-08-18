@@ -175,22 +175,16 @@ http://symfony.com/doc/2.3/cookbook/console/console_command.html
 
 #### **Automated tests**
 * Unit tests with PHPUnit  
-http://symfony.com/doc/2.3/book/testing.html  
 * Functional tests  
-http://symfony.com/doc/2.3/book/testing.html  
 * The Client object  
-http://symfony.com/doc/2.3/book/testing.html  
-* The Crawler object  
-http://symfony.com/doc/2.3/book/testing.html  
+* The Crawler object 
 * The Profile object  
-http://symfony.com/doc/2.3/book/testing.html  
-http://symfony.com/doc/2.3/cookbook/testing/profiling.html  
 * Access framework objects  
-http://symfony.com/doc/2.3/book/testing.html  
-http://symfony.com/doc/2.3/book/testing.html  
 * Configure the client  
 * Introspect the request and response  
 http://symfony.com/doc/2.3/book/testing.html  
+http://symfony.com/doc/2.3/cookbook/testing/profiling.html  
+
 ---
 
 #### **Miscellaneous**
