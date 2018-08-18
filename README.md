@@ -77,9 +77,9 @@ http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html#bundle-name
 * Code organization  
 http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html#directory-structure
 * The controllers  
-http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html#controllers
-http://symfony.com/doc/2.3/cookbook/controller/index.html
-http://symfony.com/doc/2.3/book/controller.html
+http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html#controllers              
+http://symfony.com/doc/2.3/cookbook/controller/index.html                            
+http://symfony.com/doc/2.3/book/controller.html                    
 * The views  
 http://symfony.com/doc/2.3/quick_tour/the_view.html
 * The resources  
