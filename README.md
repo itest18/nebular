@@ -25,7 +25,7 @@ http://symfony.com/doc/2.3/components/http_foundation/introduction.html#request
 http://symfony.com/doc/2.3/components/http_foundation/introduction.html#response
 * Status codes  
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
-* RFC 2616
+* RFC 2616                                                                                                
 http://www.ietf.org/rfc/rfc2616.txt
 
 ---
@@ -61,9 +61,9 @@ http://symfony.com/doc/2.3/contributing/code/standards.html
 * Integration of third-party libraries  
 http://symfony.com/doc/2.3/cookbook/bundles/installation.html
 * Composer packages handling  
-http://symfony.com/doc/2.3/book/installation.html
+http://symfony.com/doc/2.3/book/installation.html                                                
 https://knpuniversity.com/screencast/composer
-* Development best practices
+* Development best practices                                                
 http://symfony.com/doc/2.3/best_practices/index.html
 
 * Override the framework  
@@ -131,10 +131,10 @@ http://symfony.com/doc/2.3/cookbook/routing/redirect_in_config.html
 
 #### **Templating with Twig**
 * Auto escape  
-http://twig.sensiolabs.org/doc/tags/autoescape.html
+http://twig.sensiolabs.org/doc/tags/autoescape.html                                                
 http://symfony.com/doc/2.3/book/templating.html#output-escaping-in-twig
 * Template inheritance  
-http://twig.sensiolabs.org/doc/tags/extends.html
+http://twig.sensiolabs.org/doc/tags/extends.html                                                
 http://twig.sensiolabs.org/doc/templates.html#template-inheritance
 http://symfony.com/doc/2.3/book/templating.html#template-inheritance-and-layouts
 * Global functions  
@@ -144,7 +144,7 @@ http://twig.sensiolabs.org/doc/filters/index.html
 * Template includes  
 http://twig.sensiolabs.org/doc/tags/include.html
 * Control statements (loops and conditions)  
-http://twig.sensiolabs.org/doc/tags/for.html
+http://twig.sensiolabs.org/doc/tags/for.html                                                
 http://twig.sensiolabs.org/doc/templates.html#control-structure
 * Urls generation  
 http://symfony.com/doc/2.3/book/routing.html#generating-urls-from-a-template
@@ -185,7 +185,7 @@ http://symfony.com/doc/2.3/book/validation.html#validation-groups
 #### **Dependency Injection**
 * The Service container  
 http://symfony.com/doc/2.3/book/service_container.html
-* Global configuration parameters
+* Global configuration parameters                                                
 http://symfony.com/doc/2.3/components/dependency_injection/parameters.html
 http://symfony.com/doc/2.3/components/dependency_injection/introduction.html#setting-up-the-container-with-configuration-files
 * Symfony2 services  
@@ -193,7 +193,7 @@ http://symfony.com/doc/2.3/book/service_container.html#what-is-a-service
 * Register new services  
 http://symfony.com/doc/2.3/book/service_container.html#creating-configuring-services-in-the-container
 * Tags  
-http://symfony.com/doc/2.3/book/service_container.html#tags
+http://symfony.com/doc/2.3/book/service_container.html#tags                                                
 http://symfony.com/doc/2.3/reference/dic_tags.html
 * Semantic configuration  
 http://symfony.com/doc/2.3/cookbook/bundles/extension.html
