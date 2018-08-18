@@ -167,14 +167,9 @@ http://symfony.com/doc/2.3/book/http_cache.html
 #### **The command line**
 * Symfony2 commands  
 http://symfony.com/doc/2.3/components/console/usage.html  
-* Custom commands  
+* Custom commands / Configuration/ Options and arguments / Read the entry and write the output  
 http://symfony.com/doc/2.3/components/console/introduction.html    
 http://symfony.com/doc/2.3/cookbook/console/console_command.html  
-* Configuration  
-* Options and arguments  
-http://symfony.com/doc/2.3/components/console/introduction.html    
-http://symfony.com/doc/2.3/components/console/introduction.html  
-* Read the entry and write the output  
 
 ---
 
