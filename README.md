@@ -95,13 +95,13 @@ http://symfony.com/doc/2.3/cookbook/routing/redirect_in_config.html
 ---
 
 #### **Templating with Twig**
+* Templating  
+http://symfony.com/doc/2.3/book/templating.html  
+http://twig.sensiolabs.org/doc/templates.html  
 * Auto escape  
 http://twig.sensiolabs.org/doc/tags/autoescape.html  
-http://symfony.com/doc/2.3/book/templating.html  
 * Template inheritance  
 http://twig.sensiolabs.org/doc/tags/extends.html  
-http://twig.sensiolabs.org/doc/templates.html  
-http://symfony.com/doc/2.3/book/templating.html  
 * Global functions  
 http://twig.sensiolabs.org/doc/functions/index.html  
 * Filters  
@@ -110,11 +110,7 @@ http://twig.sensiolabs.org/doc/filters/index.html
 http://twig.sensiolabs.org/doc/tags/include.html  
 * Control statements (loops and conditions)  
 http://twig.sensiolabs.org/doc/tags/for.html  
-http://twig.sensiolabs.org/doc/templates.html  
-
-http://symfony.com/doc/2.3/book/templating.html  
 * Call a controller from a view  
-http://symfony.com/doc/2.3/book/templating.html  
 * Translations  
 http://symfony.com/doc/2.3/book/translation.html  
 
