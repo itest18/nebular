@@ -1,14 +1,6 @@
 Symfony certification guide
 ===========================
 
-This is not an official guide, it's only a compilation of links extracted from the documentation based on the [Symfony Certification](http://sensiolabs.com/en/symfony/certification.html) page topics.
-
-Even if you have no plans to take the Symfony certification exam, this list of resources may help you better understand the Symfony framework.
-
-Feel free to fork and send a PR.
-
-### **Topics**
----
 #### **PHP**
 * Object Oriented Programming  
 http://www.php.net/manual/en/oop5.intro.php
