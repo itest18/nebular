@@ -140,29 +140,18 @@ http://symfony.com/doc/2.3/cookbook/bundles/extension.html
 ---
 
 #### **Security**
+* Security / Providers / Firewalls / Users / Encoders / Roles / Access Control Rules  
+http://symfony.com/doc/2.3/book/security.html
 * Authentication  
 http://symfony.com/doc/2.3/components/security/authentication.html  
-http://symfony.com/doc/2.3/book/security.html  
 * Authorization  
 http://symfony.com/doc/2.3/components/security/authorization.html  
-http://symfony.com/doc/2.3/book/security.html  
 * Configuration  
 http://symfony.com/doc/2.3/reference/configuration/security.html  
-* Providers  
-http://symfony.com/doc/2.3/book/security.html  
 * Firewalls  
-http://symfony.com/doc/2.3/book/security.html  
 http://symfony.com/doc/2.3/components/security/firewall.html  
-* Users  
-http://symfony.com/doc/2.3/book/security.html  
-* Encoders  
-http://symfony.com/doc/2.3/book/security.html  
 * Roles  
 http://symfony.com/doc/2.3/components/security/authorization.html  
-http://symfony.com/doc/2.3/book/security.html  
-* Access Control Rules  
-http://symfony.com/doc/2.3/book/security.html  
-http://symfony.com/doc/2.3/book/security.html  
 
 ---
 
