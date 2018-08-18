@@ -144,24 +144,19 @@ http://symfony.com/doc/2.3/cookbook/bundles/extension.html
 http://symfony.com/doc/2.3/book/security.html
 * Authentication  
 http://symfony.com/doc/2.3/components/security/authentication.html  
-* Authorization  
+* Authorization / Roles  
 http://symfony.com/doc/2.3/components/security/authorization.html  
 * Configuration  
 http://symfony.com/doc/2.3/reference/configuration/security.html  
 * Firewalls  
 http://symfony.com/doc/2.3/components/security/firewall.html  
-* Roles  
-http://symfony.com/doc/2.3/components/security/authorization.html  
 
 ---
 
 #### **HTTP Cache**
 * Cache types (browser, proxies and reverse proxies)  
-http://symfony.com/doc/2.3/book/http_cache.html  
 * Expiration (Expires, Cache-control)  
-http://symfony.com/doc/2.3/book/http_cache.html  
 * Validation (ETag, Last-Modified)  
-http://symfony.com/doc/2.3/book/http_cache.html  
 * Client cache  
 * Server cache  
 * Edge Side Includes  
