@@ -17,12 +17,8 @@ http://www.php.net/manual/en/language.oop5.abstract.php
 ---
 
 #### **HTTP**
-* Client / Server interaction  
+* Client / Server interaction / Request handling  
 http://symfony.com/doc/2.3/book/http_fundamentals.html  
-* HTTP request  
-http://symfony.com/doc/2.3/components/http_foundation/introduction.html  
-* HTTP response  
-http://symfony.com/doc/2.3/components/http_foundation/introduction.html  
 * Status codes  
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 * RFC 2616                                                                                                
@@ -41,15 +37,9 @@ http://symfony.com/doc/2.3/quick_tour/the_architecture.html
 * Bridges  
 http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes
 *  Configuration  
-http://symfony.com/doc/2.3/quick_tour/the_architecture.html    
 http://symfony.com/doc/2.3/cookbook/configuration/index.html  
 http://symfony.com/doc/2.3/components/config/index.html  
-http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html    
 http://symfony.com/doc/2.3/cookbook/bundles/extension.html    
-*  Code organization  
-http://symfony.com/doc/2.3/quick_tour/the_architecture.html  
-* Request handling  
-http://symfony.com/doc/2.3/book/http_fundamentals.html  
 
 ---
 
@@ -72,12 +62,7 @@ http://symfony.com/doc/2.3/cookbook/bundles/override.html
 ---
 
 #### **The Bundles**
-* Naming conventions  
-http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html  
-* Code organization  
-http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html  
 * The controllers  
-http://symfony.com/doc/2.3/cookbook/bundles/best_practices.html                
 http://symfony.com/doc/2.3/cookbook/controller/index.html                              
 http://symfony.com/doc/2.3/book/controller.html                      
 * The views  
