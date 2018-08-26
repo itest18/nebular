@@ -112,6 +112,7 @@ http://twig.sensiolabs.org/doc/tags/include.html
 http://twig.sensiolabs.org/doc/tags/for.html  
 * Translations  
 http://symfony.com/doc/2.3/book/translation.html  
+https://symfony.com/doc/2.8/reference/twig_reference.html
 
 ---
 
@@ -170,6 +171,7 @@ http://symfony.com/doc/2.3/components/console/usage.html
 * Custom commands / Configuration/ Options and arguments / Read the entry and write the output  
 http://symfony.com/doc/2.3/components/console/introduction.html    
 http://symfony.com/doc/2.3/cookbook/console/console_command.html  
+http://symfony.com/doc/2.8/components/console/events.html
 
 ---
 
