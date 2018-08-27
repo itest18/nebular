@@ -40,7 +40,8 @@ http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and
 http://symfony.com/doc/2.3/cookbook/configuration/index.html  
 http://symfony.com/doc/2.3/components/config/index.html  
 http://symfony.com/doc/2.3/cookbook/bundles/extension.html    
-
+* New    
+https://symfony.com/doc/2.8/components/event_dispatcher.html  
 ---
 
 #### **Standardisation**
@@ -53,7 +54,6 @@ http://symfony.com/doc/2.3/book/installation.html
 https://knpuniversity.com/screencast/composer
 * Development best practices                                                
 http://symfony.com/doc/2.3/best_practices/index.html  
-
 * Override the framework  
 http://symfony.com/doc/2.3/cookbook/bundles/override.html  
 
@@ -137,6 +137,9 @@ http://symfony.com/doc/2.3/components/dependency_injection/parameters.html
 http://symfony.com/doc/2.3/components/dependency_injection/introduction.html  
 * Semantic configuration  
 http://symfony.com/doc/2.3/cookbook/bundles/extension.html  
+* New  
+http://symfony.com/doc/2.8/components/dependency_injection/compilation.html
+  
 
 ---
 
@@ -151,6 +154,8 @@ http://symfony.com/doc/2.3/components/security/authorization.html
 http://symfony.com/doc/2.3/reference/configuration/security.html  
 * Firewalls  
 http://symfony.com/doc/2.3/components/security/firewall.html  
+* New  
+https://symfony.com/doc/2.8/security/voters.html  
 
 ---
 
