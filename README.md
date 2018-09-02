@@ -3,68 +3,70 @@ Symfony certification guide
 
 #### **PHP**
 * Object Oriented Programming  
-http://www.php.net/manual/en/oop5.intro.php
+https://www.php.net/manual/en/oop5.intro.php
 * Namespaces  
-http://www.php.net/manual/en/language.namespaces.php  
+https://www.php.net/manual/en/language.namespaces.php  
 https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces  
 * Interfaces  
-http://www.php.net/manual/en/language.oop5.interfaces.php
+https://www.php.net/manual/en/language.oop5.interfaces.php
 * Anonymous functions and closures  
-http://www.php.net/manual/en/functions.anonymous.php
+https://www.php.net/manual/en/functions.anonymous.php
 * Abstract classes  
-http://www.php.net/manual/en/language.oop5.abstract.php
+https://www.php.net/manual/en/language.oop5.abstract.php
 
 ---
 
 #### **HTTP**
 * Client / Server interaction / Request handling  
-http://symfony.com/doc/2.8/book/http_fundamentals.html  
+https://symfony.com/doc/2.8/book/http_fundamentals.html  
 * Status codes  
-http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 * RFC 2616                                                                                                
-http://www.ietf.org/rfc/rfc2616.txt
+https://www.ietf.org/rfc/rfc2616.txt
 
 ---
 
 #### **Symfony2 Architecture**
 * Standard edition of Symfony2  
-http://symfony.com/distributions
+https://symfony.com/distributions
 * Components  
-http://symfony.com/doc/2.8/components/index.html  
+https://symfony.com/doc/2.8/components/index.html  
 * Bundles  
-http://symfony.com/doc/2.8/cookbook/bundles/best_practices.html  
-http://symfony.com/doc/2.8/quick_tour/the_architecture.html  
+https://symfony.com/doc/2.8/cookbook/bundles/best_practices.html  
+https://symfony.com/doc/2.8/quick_tour/the_architecture.html  
 * Bridges  
-http://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes
+https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes
 *  Configuration  
-http://symfony.com/doc/2.8/cookbook/configuration/index.html  
-http://symfony.com/doc/2.8/components/config/index.html  
-http://symfony.com/doc/2.8/cookbook/bundles/extension.html    
+https://symfony.com/doc/2.8/cookbook/configuration/index.html  
+https://symfony.com/doc/2.8/components/config/index.html  
 * New    
 https://symfony.com/doc/2.8/components/event_dispatcher.html  
+https://symfony.com/doc/2.8/reference/configuration/framework.html  
+https://symfony.com/doc/2.8/cookbook/bundles/extension.html    
 ---
 
 #### **Standardisation**
 * Naming conventions / Coding standards   
-http://symfony.com/doc/2.8/contributing/code/standards.html  
+https://symfony.com/doc/2.8/contributing/code/standards.html  
 * Integration of third-party libraries  
-http://symfony.com/doc/2.8/cookbook/bundles/installation.html  
+https://symfony.com/doc/2.8/cookbook/bundles/installation.html  
 * Composer packages handling  
-http://symfony.com/doc/2.8/book/installation.html                                                  
+https://symfony.com/doc/2.8/book/installation.html                                                  
 https://knpuniversity.com/screencast/composer
 * Development best practices                                                
-http://symfony.com/doc/2.8/best_practices/index.html  
+https://symfony.com/doc/2.8/best_practices/index.html  
 * Override the framework  
-http://symfony.com/doc/2.8/cookbook/bundles/override.html  
+https://symfony.com/doc/2.8/cookbook/bundles/override.html  
 
 ---
 
 #### **The Bundles**
 * The controllers  
-http://symfony.com/doc/2.8/cookbook/controller/index.html                              
+https://symfony.com/doc/2.8/cookbook/controller/index.html                              
 * The views  
-http://symfony.com/doc/2.8/quick_tour/the_view.html  
-* The resources  
+https://symfony.com/doc/2.8/quick_tour/the_view.html  
+* New    
+https://symfony.com/doc/2.3/bundles/SensioFrameworkExtraBundle/index.html  
 
 ---
 
@@ -74,11 +76,11 @@ http://symfony.com/doc/2.8/quick_tour/the_view.html
 * The cookies / The session / Session flashbag  
 * Redirects / Internal redirects  
 * Generate 404 pages  
-http://symfony.com/doc/2.8/book/routing.html  
-http://symfony.com/doc/2.8/book/controller.html  
-http://symfony.com/doc/2.8/components/http_foundation/introduction.html  
-http://symfony.com/doc/2.8/components/http_foundation/sessions.html  
-http://symfony.com/doc/2.8/cookbook/controller/error_pages.html  
+https://symfony.com/doc/2.8/book/routing.html  
+https://symfony.com/doc/2.8/book/controller.html  
+https://symfony.com/doc/2.8/components/http_foundation/introduction.html  
+https://symfony.com/doc/2.8/components/http_foundation/sessions.html  
+https://symfony.com/doc/2.8/cookbook/controller/error_pages.html  
 
 ---
 
@@ -87,38 +89,38 @@ http://symfony.com/doc/2.8/cookbook/controller/error_pages.html
 * Restrict URL parameters  
 * Set default values to URL parameters  
 * Generate URL parameters  
-http://symfony.com/doc/2.8/book/routing.html  
+https://symfony.com/doc/2.8/book/routing.html  
 * Trigger redirections  
-http://symfony.com/doc/master/cmf/components/routing/dynamic.html  
-http://symfony.com/doc/2.8/cookbook/routing/redirect_in_config.html  
+https://symfony.com/doc/master/cmf/components/routing/dynamic.html  
+https://symfony.com/doc/2.8/cookbook/routing/redirect_in_config.html  
 
 ---
 
 #### **Templating with Twig**
 * Templating / Call a controller from a view  
-http://symfony.com/doc/2.8/book/templating.html  
-http://twig.sensiolabs.org/doc/templates.html  
+https://symfony.com/doc/2.8/book/templating.html  
+https://twig.sensiolabs.org/doc/templates.html  
 * Auto escape  
-http://twig.sensiolabs.org/doc/tags/autoescape.html  
+https://twig.sensiolabs.org/doc/tags/autoescape.html  
 * Template inheritance  
-http://twig.sensiolabs.org/doc/tags/extends.html  
+https://twig.sensiolabs.org/doc/tags/extends.html  
 * Global functions  
-http://twig.sensiolabs.org/doc/functions/index.html  
+https://twig.sensiolabs.org/doc/functions/index.html  
 * Filters  
-http://twig.sensiolabs.org/doc/filters/index.html  
+https://twig.sensiolabs.org/doc/filters/index.html  
 * Template includes  
-http://twig.sensiolabs.org/doc/tags/include.html  
+https://twig.sensiolabs.org/doc/tags/include.html  
 * Control statements (loops and conditions)  
-http://twig.sensiolabs.org/doc/tags/for.html  
+https://twig.sensiolabs.org/doc/tags/for.html  
 * Translations  
-http://symfony.com/doc/2.8/book/translation.html  
+https://symfony.com/doc/2.8/book/translation.html  
 https://symfony.com/doc/2.8/reference/twig_reference.html
 
 ---
 
 #### **Forms**
 * Create forms / Handling forms / Form types / Render forms with Twig / Forms security (CSRF)  
-http://symfony.com/doc/2.8/book/forms.html  
+https://symfony.com/doc/2.8/book/forms.html  
 * New  
 https://symfony.com/doc/2.8/form/events.html  
 https://symfony.com/doc/2.8/form/dynamic_form_modification.html  
@@ -128,42 +130,42 @@ https://symfony.com/doc/2.3/cookbook/controller/upload_file.html#using-a-doctrin
 
 #### **Validation**
 * Validate a PHP object / Native validation rules / Validation scopes / Validation groups  
-http://symfony.com/doc/2.8/book/validation.html  
+https://symfony.com/doc/2.8/book/validation.html  
 
 ---
 
 #### **Dependency Injection**
 * The Service container/ Symfony2 services / Register new services / Tags  
-http://symfony.com/doc/2.8/book/service_container.html  
-http://symfony.com/doc/2.8/reference/dic_tags.html  
+https://symfony.com/doc/2.8/book/service_container.html  
+https://symfony.com/doc/2.8/reference/dic_tags.html  
 * Global configuration parameters                                                
-http://symfony.com/doc/2.8/components/dependency_injection/parameters.html  
-http://symfony.com/doc/2.8/components/dependency_injection/introduction.html  
+https://symfony.com/doc/2.8/components/dependency_injection/parameters.html  
+https://symfony.com/doc/2.8/components/dependency_injection/introduction.html  
 * Semantic configuration  
-http://symfony.com/doc/2.8/cookbook/bundles/extension.html  
+https://symfony.com/doc/2.8/cookbook/bundles/extension.html  
 * New  
 https://symfony.com/doc/2.8/service_container/definitions.html  
 https://symfony.com/doc/2.8/service_container/tags.html
 https://symfony.com/doc/2.8/service_container/lazy_services.html  
-http://symfony.com/doc/2.8/components/dependency_injection/compilation.html
+https://symfony.com/doc/2.8/components/dependency_injection/compilation.html
 https://symfony.com/doc/2.8/service_container/autowiring.html  
 https://symfony.com/doc/2.8/service_container/calls.html  
-
-  
+https://symfony.com/doc/2.8/service_container/compiler_passes.html  
+https://symfony.com/doc/2.8/service_container/scopes.html  
 
 ---
 
 #### **Security**
 * Security / Providers / Firewalls / Users / Encoders / Roles / Access Control Rules  
-http://symfony.com/doc/2.8/book/security.html
+https://symfony.com/doc/2.8/book/security.html
 * Authentication  
-http://symfony.com/doc/2.8/components/security/authentication.html  
+https://symfony.com/doc/2.8/components/security/authentication.html  
 * Authorization / Roles  
-http://symfony.com/doc/2.8/components/security/authorization.html  
+https://symfony.com/doc/2.8/components/security/authorization.html  
 * Configuration  
-http://symfony.com/doc/2.8/reference/configuration/security.html  
+https://symfony.com/doc/2.8/reference/configuration/security.html  
 * Firewalls  
-http://symfony.com/doc/2.8/components/security/firewall.html  
+https://symfony.com/doc/2.8/components/security/firewall.html  
 * New  
 https://symfony.com/doc/2.8/security/voters.html  
 
@@ -176,17 +178,19 @@ https://symfony.com/doc/2.8/security/voters.html
 * Client cache  
 * Server cache  
 * Edge Side Includes  
-http://symfony.com/doc/2.8/book/http_cache.html  
+https://symfony.com/doc/2.8/book/http_cache.html  
 
 ---
 
 #### **The command line**
 * Symfony2 commands  
-http://symfony.com/doc/2.8/components/console/usage.html  
+https://symfony.com/doc/2.8/components/console/usage.html  
 * Custom commands / Configuration/ Options and arguments / Read the entry and write the output  
-http://symfony.com/doc/2.8/components/console/introduction.html    
-http://symfony.com/doc/2.8/cookbook/console/console_command.html  
-http://symfony.com/doc/2.8/components/console/events.html
+https://symfony.com/doc/2.8/components/console/introduction.html    
+https://symfony.com/doc/2.8/cookbook/console/console_command.html  
+https://symfony.com/doc/2.8/components/console/events.html  
+https://symfony.com/doc/2.8/console/calling_commands.html  
+https://symfony.com/doc/2.8/console/verbosity.html  
 
 ---
 
@@ -199,13 +203,19 @@ http://symfony.com/doc/2.8/components/console/events.html
 * Access framework objects  
 * Configure the client  
 * Introspect the request and response  
-http://symfony.com/doc/2.8/book/testing.html  
-http://symfony.com/doc/2.8/cookbook/testing/profiling.html  
+https://symfony.com/doc/2.8/book/testing.html  
+https://symfony.com/doc/2.8/cookbook/testing/profiling.html  
 
 ---
 
 #### **Miscellaneous**
 * Error handling  
-http://symfony.com/doc/2.8/cookbook/controller/error_pages.html  
+https://symfony.com/doc/2.8/cookbook/controller/error_pages.html  
 * Debug the code  
-http://symfony.com/doc/2.8/cookbook/debugging.html  
+https://symfony.com/doc/2.8/cookbook/debugging.html  
+
+---
+
+#### **Components**
+* Debug  
+https://symfony.com/doc/2.8/components/debug.html  
