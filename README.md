@@ -220,6 +220,14 @@ https://symfony.com/doc/2.8/cookbook/debugging.html
 
 ---
 
-#### **Components**
-* Debug  
-https://symfony.com/doc/2.8/components/debug.html  
+#### **Books**
+*  Symfony Book:  
+http://symfony.com/doc/2.3/book/index.html  
+*  Symfony Cookbook:  
+*  http://symfony.com/doc/2.3/cookbook/index.html  
+Symfony Components:  
+*  http://symfony.com/doc/2.3/components/index.html  
+Symfony best practices:  
+*  http://symfony.com/doc/2.3/best_practices/index.html  
+Framework configuration:  
+*  http://symfony.com/doc/2.3/reference/configuration/framework.html   
