@@ -125,7 +125,9 @@ https://symfony.com/doc/2.8/book/forms.html
 https://symfony.com/doc/2.8/form/events.html  
 https://symfony.com/doc/2.8/form/dynamic_form_modification.html  
 https://symfony.com/doc/2.3/cookbook/controller/upload_file.html#using-a-doctrine-listener
-
+https://symfony.com/doc/2.8/form/data_transformers.html  
+https://symfony.com/doc/2.8/form/csrf_protection.html  
+https://symfony.com/doc/2.8/form/without_class.html  
 ---
 
 #### **Validation**
@@ -191,6 +193,8 @@ https://symfony.com/doc/2.8/cookbook/console/console_command.html
 https://symfony.com/doc/2.8/components/console/events.html  
 https://symfony.com/doc/2.8/console/calling_commands.html  
 https://symfony.com/doc/2.8/console/verbosity.html  
+https://symfony.com/doc/2.8/components/console/helpers/questionhelper.html  
+https://symfony.com/doc/2.8/console/coloring.html  
 
 ---
 
