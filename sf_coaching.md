@@ -29,8 +29,10 @@ https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 * Code organization  
 * Request processing  
 
-https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes  
 https://symfony.com/doc/2.3/book/configuration.html  
+https://symfony.com/doc/2.3/cookbook/configuration/index.html
+https://symfony.com/doc/2.3/reference/configuration/framework.html  
+https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes  
 https://symfony.com/doc/2.3/cookbook/configuration/web_server_configuration.html  
 https://symfony.com/doc/2.3/cookbook/web_server/built_in.html  
 
@@ -99,6 +101,10 @@ https://symfony.com/doc/2.3/cookbook/routing/index.html
 
 https://symfony.com/doc/2.3/book/templating.html  
 https://symfony.com/doc/2.3/cookbook/templating/index.html  
+https://symfony.com/doc/2.3/best_practices/templates.html  
+https://symfony.com/doc/2.3/reference/configuration/twig.html  
+https://symfony.com/doc/2.3/reference/forms/twig_reference.html  
+https://symfony.com/doc/2.3/reference/twig_reference.html  
 
 ---
 
@@ -113,7 +119,7 @@ https://symfony.com/doc/2.3/cookbook/templating/index.html
 
 https://symfony.com/doc/2.3/book/forms.html  
 https://symfony.com/doc/2.3/cookbook/form/index.html  
-
+https://symfony.com/doc/2.3/best_practices/forms.html  
 
 ---
 
@@ -123,8 +129,8 @@ https://symfony.com/doc/2.3/cookbook/form/index.html
 * Validation constraints scopes  
 * Validation groups  
 
-https://symfony.com/doc/2.3/book/validation.html
-https://symfony.com/doc/2.3/cookbook/validation/index.html
+https://symfony.com/doc/2.3/book/validation.html  
+https://symfony.com/doc/2.3/cookbook/validation/index.html  
 
 ---
 
@@ -139,6 +145,8 @@ https://symfony.com/doc/2.3/cookbook/validation/index.html
 
 https://symfony.com/doc/2.3/book/service_container.html  
 https://symfony.com/doc/2.3/cookbook/service_container/index.html  
+https://symfony.com/doc/2.3/cookbook/event_dispatcher/index.html  
+https://symfony.com/doc/2.3/reference/dic_tags.html  
 
 ---
 
@@ -154,6 +162,8 @@ https://symfony.com/doc/2.3/cookbook/service_container/index.html
 
 https://symfony.com/doc/2.3/book/security.html  
 https://symfony.com/doc/2.3/cookbook/security/index.html  
+https://symfony.com/doc/2.3/best_practices/security.html  
+https://symfony.com/doc/2.3/reference/configuration/security.html  
 
 ---
 
@@ -194,6 +204,7 @@ https://symfony.com/doc/2.3/components/index.html
 
 https://symfony.com/doc/2.3/book/testing.html  
 https://symfony.com/doc/2.3/cookbook/testing/index.html  
+https://symfony.com/doc/2.3/best_practices/tests.html  
 
 ---
 
