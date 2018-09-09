@@ -192,8 +192,8 @@
 * Configuring the client  
 * Request / response inspection  
 
-* https://symfony.com/doc/2.3/book/testing.html  
-* https://symfony.com/doc/2.3/cookbook/testing/index.html  
+* https://symfony.com/doc/2.3/book/testing.html
+* https://symfony.com/doc/2.3/cookbook/testing/index.html
 
 ---
 
