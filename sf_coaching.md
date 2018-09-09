@@ -1,13 +1,7 @@
-#### **The PHP Language**
-* Object Oriented Programming principes  
-* Namespaces  
-* Interfaces  
-* Anonymous functions and closures  
-* Abstract classes  
+SF Full program
+===========================
 
----
-
-#### **The HTTP Protocol**
+#### **1) The HTTP Protocol**
 * The Client / Server model  
 * The HTTP request  
 * The HTTP response  
@@ -20,7 +14,7 @@ https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 
 ---
 
-#### **The Symfony Standard Edition Architecture**
+#### **2) The Symfony Standard Edition Architecture**
 * The Symfony Standard Edition  
 * The Symfony Components  
 * The Symfony Bundles  
@@ -38,7 +32,7 @@ https://symfony.com/doc/2.3/cookbook/web_server/built_in.html
 
 ---
 
-#### **Development Standardization**
+#### **3) Development Standardization**
 * Namming conventions  
 * Coding standards  
 * Third party libraries integration  
@@ -50,7 +44,7 @@ https://symfony.com/doc/2.3/best_practices/index.html
 
 ---
 
-#### **Bundles**
+#### **4) Bundles**
 * Namming conventions  
 * Code organization  
 * Controllers  
@@ -63,7 +57,7 @@ https://symfony.com/doc/2.8/bundles/best_practices.html
 
 ---
 
-#### **Controllers**
+#### **5) Controllers**
 * The Request object  
 * The Response object  
 * The Session object  
@@ -77,7 +71,7 @@ https://symfony.com/doc/2.3/cookbook/controller/index.html
 
 ---
 
-#### **Routing**
+#### **6) Routing**
 * Configuration (YAML / XML / PHP & annotations)  
 * Adding constraints to urls parameters  
 * Applying default values to urls parameters  
@@ -88,7 +82,7 @@ https://symfony.com/doc/2.3/cookbook/routing/index.html
 
 ---
 
-#### **Templating with Twig**
+#### **7) Templating with Twig**
 * Automatic escaping  
 * Template inheritance  
 * Global variables  
@@ -108,7 +102,7 @@ https://symfony.com/doc/2.3/reference/twig_reference.html
 
 ---
 
-#### **Forms**
+#### **8) Forms**
 * Designing form types  
 * Processing a form  
 * Built-in form field types  
@@ -123,7 +117,7 @@ https://symfony.com/doc/2.3/best_practices/forms.html
 
 ---
 
-#### **Data Validation
+#### **9) Data Validation** 
 * Validating a PHP object  
 * Built-in validation constraints  
 * Validation constraints scopes  
@@ -134,7 +128,7 @@ https://symfony.com/doc/2.3/cookbook/validation/index.html
 
 ---
 
-#### **Dependency Injection** 
+#### **10) Dependency Injection** 
 * The service container  
 * Global configuration parameters  
 * Built-in Symfony services  
@@ -150,7 +144,7 @@ https://symfony.com/doc/2.3/reference/dic_tags.html
 
 ---
 
-#### **Security**
+#### **11) Security**
 * Authentication  
 * Authorization  
 * User providers  
@@ -167,7 +161,7 @@ https://symfony.com/doc/2.3/reference/configuration/security.html
 
 ---
 
-#### **HTTP Caching**
+#### **12) HTTP Caching**
 * Types of cache (browser, proxies & reverse proxies)  
 * Expiration (Expires, Cache-Control)  
 * Validation (Etag, Last-Modified)  
@@ -180,7 +174,7 @@ https://symfony.com/doc/2.3/cookbook/cache/index.html
 
 ---
 
-#### **The Command Line Interface**
+#### **13) The Command Line Interface**
 * Symfony built-in commands  
 * Custom console commands  
 * Command configuration  
@@ -193,7 +187,7 @@ https://symfony.com/doc/2.3/components/index.html
 
 ---
 
-#### **Automated testing**
+#### **14) Automated testing**
 * Functional tests  
 * The Client object  
 * The Crawler object  
@@ -208,8 +202,24 @@ https://symfony.com/doc/2.3/best_practices/tests.html
 
 ---
 
-#### **Misc**
+#### **15) Misc**
 * Error handling  
 * Code debugging  
 
 https://symfony.com/doc/2.3/cookbook/debugging.html  
+
+#### **16) The PHP Language**
+* Object Oriented Programming principes  
+* Namespaces  
+* Interfaces  
+* Anonymous functions and closures  
+* Abstract classes  
+
+---
+
+#### **17) Books**
+
+https://symfony.com/doc/2.3/book/index.html
+https://symfony.com/doc/2.3/cookbook/index.html
+https://symfony.com/doc/2.3/best_practices/index.html
+https://symfony.com/doc/2.3/reference/index.html
