@@ -13,9 +13,9 @@
 * The HTTP response  
 * The response status codes  
 
-https://symfony.com/doc/2.3/book/http_fundamentals.html  
-https://www.ietf.org/rfc/rfc2616.txt  
-https://en.wikipedia.org/wiki/List_of_HTTP_status_codes  
+* https://symfony.com/doc/2.3/book/http_fundamentals.html  
+* https://www.ietf.org/rfc/rfc2616.txt  
+* https://en.wikipedia.org/wiki/List_of_HTTP_status_codes  
 
 
 ---
@@ -29,36 +29,35 @@ https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 * Code organization  
 * Request processing  
 
-https://symfony.com/doc/2.3/components/index.html  
-https://symfony.com/doc/2.8/bundles/best_practices.html  
-https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes  
-https://symfony.com/doc/2.3/book/configuration.html  
-https://symfony.com/doc/2.3/cookbook/configuration/web_server_configuration.html  
-https://symfony.com/doc/2.3/cookbook/web_server/built_in.html  
+* https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor?answertab=votes  
+* https://symfony.com/doc/2.3/book/configuration.html  
+* https://symfony.com/doc/2.3/cookbook/configuration/web_server_configuration.html  
+* https://symfony.com/doc/2.3/cookbook/web_server/built_in.html  
 
 ---
 
-*#### **Development Standardization**
+#### **Development Standardization**
 * Namming conventions  
 * Coding standards  
 * Third party libraries integration  
 * Composer dependency manager  
 * Development best practices  
 * Framework overloading  
-https://symfony.com/doc/2.3/contributing/code/standards.html
-https://symfony.com/doc/2.3/best_practices/index.html
+* https://symfony.com/doc/2.3/contributing/code/standards.html
+* https://symfony.com/doc/2.3/best_practices/index.html
 
 ---
 
-*#### **Bundles**
+#### **Bundles**
 * Namming conventions  
 * Code organization  
 * Controllers  
 * Views  
 * Resources  
 
-https://symfony.com/doc/2.3/book/bundles.html  
-https://symfony.com/doc/2.3/cookbook/bundles/index.html  
+* https://symfony.com/doc/2.3/book/bundles.html  
+* https://symfony.com/doc/2.3/cookbook/bundles/index.html  
+* https://symfony.com/doc/2.8/bundles/best_practices.html  
 
 ---
 
@@ -71,8 +70,8 @@ https://symfony.com/doc/2.3/cookbook/bundles/index.html
 * The HTTP redirects  
 * The 404 exceptions  
 
-https://symfony.com/doc/2.3/book/controller.html  
-https://symfony.com/doc/2.3/cookbook/controller/index.html  
+* https://symfony.com/doc/2.3/book/controller.html  
+* https://symfony.com/doc/2.3/cookbook/controller/index.html  
 
 ---
 
@@ -82,8 +81,8 @@ https://symfony.com/doc/2.3/cookbook/controller/index.html
 * Applying default values to urls parameters  
 * Generating urls based on routing configuration  
 
-https://symfony.com/doc/2.3/book/routing.html  
-https://symfony.com/doc/2.3/cookbook/routing/index.html  
+* https://symfony.com/doc/2.3/book/routing.html  
+* https://symfony.com/doc/2.3/cookbook/routing/index.html  
 
 ---
 
@@ -98,8 +97,8 @@ https://symfony.com/doc/2.3/cookbook/routing/index.html
 * Action rendering  
 * Translation helpers  
 
-https://symfony.com/doc/2.3/book/templating.html  
-https://symfony.com/doc/2.3/cookbook/templating/index.html  
+* https://symfony.com/doc/2.3/book/templating.html  
+* https://symfony.com/doc/2.3/cookbook/templating/index.html  
 
 ---
 
@@ -112,8 +111,8 @@ https://symfony.com/doc/2.3/cookbook/templating/index.html
 * Data transformers  
 * Form events  
 
-https://symfony.com/doc/2.3/book/forms.html  
-https://symfony.com/doc/2.3/cookbook/form/index.html  
+* https://symfony.com/doc/2.3/book/forms.html  
+* https://symfony.com/doc/2.3/cookbook/form/index.html  
 
 
 ---
@@ -124,8 +123,8 @@ https://symfony.com/doc/2.3/cookbook/form/index.html
 * Validation constraints scopes  
 * Validation groups  
 
-https://symfony.com/doc/2.3/book/validation.html
-https://symfony.com/doc/2.3/cookbook/validation/index.html
+* https://symfony.com/doc/2.3/book/validation.html
+* https://symfony.com/doc/2.3/cookbook/validation/index.html
 
 ---
 
@@ -138,8 +137,8 @@ https://symfony.com/doc/2.3/cookbook/validation/index.html
 * Semantic bundle configuration  
 * Compiler passes  
 
-https://symfony.com/doc/2.3/book/service_container.html  
-https://symfony.com/doc/2.3/cookbook/service_container/index.html  
+* https://symfony.com/doc/2.3/book/service_container.html  
+* https://symfony.com/doc/2.3/cookbook/service_container/index.html  
 
 ---
 
@@ -153,8 +152,8 @@ https://symfony.com/doc/2.3/cookbook/service_container/index.html
 * Roles  
 * Access Control Rules  
 
-https://symfony.com/doc/2.3/book/security.html  
-https://symfony.com/doc/2.3/cookbook/security/index.html  
+* https://symfony.com/doc/2.3/book/security.html  
+* https://symfony.com/doc/2.3/cookbook/security/index.html  
 
 ---
 
@@ -166,8 +165,8 @@ https://symfony.com/doc/2.3/cookbook/security/index.html
 * Server side caching  
 * Edge Side Includes  
 
-https://symfony.com/doc/2.3/book/http_cache.html  
-https://symfony.com/doc/2.3/cookbook/cache/index.html  
+* https://symfony.com/doc/2.3/book/http_cache.html  
+* https://symfony.com/doc/2.3/cookbook/cache/index.html  
 
 ---
 
@@ -179,8 +178,8 @@ https://symfony.com/doc/2.3/cookbook/cache/index.html
 * Input & Output handling  
 * Command helpers  
 
-https://symfony.com/doc/2.3/cookbook/console/index.html  
-https://symfony.com/doc/2.3/components/index.html  
+* https://symfony.com/doc/2.3/cookbook/console/index.html  
+* https://symfony.com/doc/2.3/components/index.html  
 
 ---
 
@@ -193,8 +192,8 @@ https://symfony.com/doc/2.3/components/index.html
 * Configuring the client  
 * Request / response inspection  
 
-https://symfony.com/doc/2.3/book/testing.html  
-https://symfony.com/doc/2.3/cookbook/testing/index.html  
+* https://symfony.com/doc/2.3/book/testing.html  
+* https://symfony.com/doc/2.3/cookbook/testing/index.html  
 
 ---
 
@@ -202,4 +201,4 @@ https://symfony.com/doc/2.3/cookbook/testing/index.html
 * Error handling  
 * Code debugging  
 
-https://symfony.com/doc/2.3/cookbook/debugging.html  
+* https://symfony.com/doc/2.3/cookbook/debugging.html  
