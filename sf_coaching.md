@@ -39,7 +39,7 @@ https://symfony.com/doc/2.3/cookbook/web_server/built_in.html
 * Composer dependency manager  
 * Development best practices  
 * Framework overloading  
-https://symfony.com/doc/2.3/contributing/code/standards.html
+https://symfony.com/doc/2.3/contributing/code/standards.html  
 https://symfony.com/doc/2.3/best_practices/index.html
 
 ---
@@ -219,7 +219,7 @@ https://symfony.com/doc/2.3/cookbook/debugging.html
 
 #### **17) Books**
 
-https://symfony.com/doc/2.3/book/index.html
-https://symfony.com/doc/2.3/cookbook/index.html
-https://symfony.com/doc/2.3/best_practices/index.html
-https://symfony.com/doc/2.3/reference/index.html
+https://symfony.com/doc/2.3/book/index.html  
+https://symfony.com/doc/2.3/cookbook/index.html  
+https://symfony.com/doc/2.3/best_practices/index.html  
+https://symfony.com/doc/2.3/reference/index.html  
